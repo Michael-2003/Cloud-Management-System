@@ -76,4 +76,5 @@ by the way options appear on right side
 
 ![image](https://github.com/Michael-2003/Cloud-Management-System/assets/107130078/a69b3774-1627-4b56-87a4-7a69c843d39c)
 
-and if you click any other option the option you used will disappear and thr other option you choosed will appear
+and if you click any other option the option you used will disappear and thr other option you choosed will appear.
+
